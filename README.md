@@ -36,3 +36,6 @@ The game console can effectively play Tetris, Snake and Sokoban.
     <img width="100%" src="https://raw.githubusercontent.com/XORZK/poki-musi/refs/heads/main/img/square_waves.png">
 </p>
 
+## future goals
+- Write more games for the console.
+- Build a better, more portable enclosure.
