@@ -15,3 +15,6 @@ The game console can effectively play Tetris, Snake and Sokoban.
   the <i> poki-musi </i> running Snake
 </p>
 
+## the screen
+- The game console's screen was built using WS2812B individually addressable LED strips.
+- These LED strips use a serial communication protocol to control an arbitrary number of RGB LEDs, w/ a single GPIO pin.
