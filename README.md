@@ -31,3 +31,7 @@ The game console can effectively play Tetris, Snake and Sokoban.
 	- Different notes are played by altering the frequency of the three square waves.
 - Furthermore, the 3 channel sound system can create differences in the timbre of its notes played by adjusting the duty cycle of the square wave via PWM.
 - Overall, this system of generating audio systems is rather limited, as most modern audio systems are able of outputting arbitrary 16-bit audio.
+
+<p align="center" width="100%">
+    <img width="100%" src="https://raw.githubusercontent.com/XORZK/poki-musi/refs/heads/main/img/square_waves.png">
+</p>
