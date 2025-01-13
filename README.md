@@ -8,3 +8,10 @@ The game console can effectively play Tetris, Snake and Sokoban.
 	the <i> poki-musi </i> running Tetris.
 </p>
 
+
+<p align="center">
+    <img width="100%" src="https://raw.githubusercontent.com/XORZK/poki-musi/refs/heads/main/img/snake.gif">
+  <br>
+  the <i> poki-musi </i> running Snake
+</p>
+
